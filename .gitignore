@@ -108,3 +108,5 @@ venv.bak/
 *.ics
 *.xlsx
 *.xls
+*.csv
+*.zip
